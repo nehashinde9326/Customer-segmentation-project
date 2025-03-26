@@ -1,1 +1,2 @@
-# Customer-segmentation-project
+#INFOTACT SOLUTION 
+Task1 Customer-segmentation-project
